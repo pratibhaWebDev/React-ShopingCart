@@ -1,0 +1,17 @@
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 25%;
+}
+.img {
+  display: flex; /* Use flex to center the image if needed */
+  justify-content: center; /* Horizontally centers the image */
+  margin: 0 auto; /* Center the container */
+}
+.img img{
+  width: 300px;
+}
+.add{
+    padding: 10px 40px;
+    text-align: end;
+}
